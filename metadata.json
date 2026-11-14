@@ -1,0 +1,6 @@
+{
+  "name": "Kh vpn",
+  "description": "Klien VPN SSH & SlowDNS neo-brutalis minimalis yang ringan dengan optimasi performa jaringan dan auto-reconnect saat berpindah provider internet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
